@@ -1,0 +1,78 @@
+Timestamp,Age,Gender,Programme/Course,"On average, how many hours of sleep do you get per night?",How long does it typically take you to fall asleep?,"On an average night, how many times do you wake up?","What is the average time you go to bed on a weekday (24-hour clock, e.g., 22:30)?","What is the average time you wake up on a weekday (24 hour clock e.g., 06:00)?","On a scale of 1 to 10, with 1 being 'very poor' and 10 being 'excellent,' how would you rate your overall sleep quality?",Are you taking a step for improving your sleep schedule?," In a typical week, on how many days do you engage in moderate-to-vigorous physical activity (e.g., brisk walking, running, cycling, gym workouts, sports) for at least 30 minutes?","On the days you are physically active, what is the average duration of physical activity?","How many caffeinated beverages (e.g., coffee, tea, energy drinks) do you consume per day, on average?",What is the primary reason for your caffeine consumption?, Do you consume alcoholic beverages?,"On days when you consume these, approximately how close to your bedtime do you typically do so?
+(no of hours before the bedtime)","On a typical day, what is your total two-way travel time to and from your institute/college?","On a typical day, approximately how many hours and minutes do you spend looking at screens for ACADEMIC purposes? (e.g., online classes, assignments, research)","On a typical day, approximately how many hours and minutes do you spend looking at screens (phone, laptop, tablet, TV) for NON-ACADEMIC purposes? (e.g., social media, entertainment, gaming)",Where do you currently reside?,"Do you currently smoke or use tobacco products (e.g., cigarettes, vapes, chewing tobacco)?",Do you have any health problems?,"If any, please specify"
+9/25/2025 13:39:31,19,Male,AMC,6:30,1:00,0,12:00:00 am,5:30:00 am,6,No,5,2:00,0,I don't ,No never,,3:30,4:00,4:00,With parents/family,No never,Yes,"Mental health problems, Physical health problems"
+9/26/2025 12:04:32,18,Female,AMC,9:00,0:15,0,10:30:00 am,6:00:00 am,7,Yes,6,0:30,0,I don't ,No never,,1:30,1:00,4:00,With parents/family,No never,No,
+9/26/2025 12:15:11,18,Male,Bsc Data Science,6:30,0:45,2,12:30:00 am,7:30:00 am,7,No,3,1:30,2,Habit,No never,3:00,1:00,2:00,5:00,With parents/family,No never,No,
+9/26/2025 12:24:14,18,Female,B pharm,6:00,0:15,2,12:00:00 am,6:00:00 am,5,No,0,,1,Habit,No never,5:00,2:00,6:00,2:00,With parents/family,No never,No,
+9/26/2025 12:25:03,19,Female,BAMMAC,7:00,1:00,0,2:00:00 am,10:00:00 am,6,No,0,0:00,0,I don't ,No never,,0:10,3:00,2:00,With parents/family,No never,No,
+9/26/2025 12:28:30,18,Female,BAF,3:30,0:30,2,1:00:00 am,4:00:00 am,2,Yes,4,4:30,0,NA,No never,,1:00,12:00,14:00,With parents/family,No never,No,
+9/26/2025 12:28:42,19,Female,Bachelors of Arts,5:00,1:00,1,12:00:00 am,6:30:00 am,6,Yes,6,1:00,2,Habit,No never,6:00,1:00,1:00,4:00,With parents/family,No never,No,
+9/26/2025 12:40:20,19,Female,Bpth,6:00,0:20,2,1:00:00 am,8:00:00 am,6,Yes,3,0:30,3,To stay awake/alert while studying,No never,,0:15,6:00,8:00,In a hostel (university-managed),No never,No,
+9/26/2025 12:47:19,22,Female,Bcom,4:00,0:15,0,1:00:00 am,5:00:00 am,2,No,1,0:45,0,To feel awake in the morning,No never,16:00,1:30,4:00,1:00,With parents/family,No never,No,
+9/26/2025 13:23:48,18,Female,Bsc Data Science,6:00,0:10,0,12:00:00 am,7:00:00 am,8,Yes,0,0:15,0,I don't ,No never,,0:03,3:00,2:00,In a hostel (university-managed),No never,No,
+9/26/2025 13:33:40,17,Female,12th,6:00,0:20,2,1:00:00 pm,9:00:00 am,2,No,6,0:01,0,,No never,,0:00,0:30,8:00,With parents/family,No never,Yes,Mental health problems
+9/26/2025 13:36:05,17,Female,12th,10:00,0:10,0,1:30:00 am,12:00:00 pm,7,No,4,1:00,1,To stay awake/alert while studying,No never,,1:00,0:30,8:00,With parents/family,No never,No,
+9/26/2025 13:38:27,17,Female,12th,5:00,0:10,0,12:30:00 pm,7:00:00 am,8,Yes,2,0:30,0,Social reasons (with friends),Yes occasionally,10:00,0:30,3:00,3:00,With parents/family,No never,No,
+9/26/2025 13:38:39,17,Female,12th,8:00,0:30,3,12:00:00 am,6:00:00 am,6,No,5,6:00,1,To feel awake in the morning,No never,2:00,7:00,3:00,7:00,With parents/family,No never,No,
+9/26/2025 13:38:55,16,Female,Bsc,6:00,1:00,2,12:00:00 pm,6:30:00 am,5,No,6,3:00,1,Habit,No never,12:00,1:00,1:00,2:00,With parents/family,No never,Yes,Physical health problems
+9/26/2025 13:42:25,19,Male,BCCA,7:00,0:10,2,10:30:00 pm,6:00:00 am,1,No,7,3:00,1,Social reasons (with friends),No never,,,,,,No never,No,
+9/26/2025 13:43:17,17,Female,12th,4:00,0:02,0,4:00:00 am,8:00:00 am,3,No,7,1:00,4,To stay awake/alert while studying,No never,,0:30,2:00,3:00,With parents/family,No never,No,
+9/26/2025 13:53:35,16,Female,11th,6:30,0:10,1,11:00:00 pm,10:00:00 am,8,Yes,6,0:25,1,Habit,No never,,2:00,1:00,2:00,With parents/family,No never,No,
+9/26/2025 13:59:59,17,Female,12th,7:30,1:00,2,12:30:00 pm,9:30:00 am,7,Yes,3,1:00,1,Habit,No never,,,,,,,,
+9/26/2025 14:19:18,18,Male,Bcom,7:00,0:20,1,4:00:00 am,12:00:00 pm,4,No,5,0:45,2,Habit,No never,,0:20,5:00,5:00,In a private paying guest (PG) accommodation,No never,No,
+9/26/2025 14:23:56,20,Male,BSC ASA,6:30,0:30,2,11:30:00 am,6:00:00 am,6,Yes,1,,0,I don't ,Yes occasionally,2:00,1:45,4:00,4:00,With parents/family,No never,Yes,"Mental health problems, Physical health problems"
+9/26/2025 15:13:19,20,Male,Bsc,4:30,0:05,2,2:00:00 am,6:00:00 am,3,No,7,12:00,3,To stay awake/alert while studying,No never,,0:15,4:00,4:00,With parents/family,"No, I used to but have quit",No,
+9/26/2025 15:16:53,16,Female,11th,6:00,0:15,2,12:45:00 am,11:30:00 am,10,Yes,2,2:15,3,Habit,No never,1:30,1:30,2:00,4:00,With parents/family,No never,No,
+9/26/2025 16:05:35,18,Female,Bcom,7:00,0:15,1,2:00:00 pm,6:00:00 am,7,No,1,0:30,1,Habit,No never,0:05,1:01,2:00,3:00,With parents/family,No never,Yes,"Mental health problems, Physical health problems"
+9/26/2025 16:17:35,19,Female,B.Voc interior design ,4:00,2:00,2,12:00:00 am,6:00:00 am,4,Yes,2,0:45,4,Habit,No never,0:00,1:00,3:00,6:00,With parents/family,Yes occasionally,No,Mental health problems
+9/26/2025 16:28:39,24,Female,BCCA,8:21,6:58,1,10:30:00 pm,,4,No,0,,0,Does not suit,No never,,1:00,1:00,2:00,With parents/family,No never,No,
+9/26/2025 16:30:26,19,Female,Btech-Cs,6:30,0:05,1,11:30:00 am,6:30:00 am,6,Yes,1,0:10,2,Habit,No never,5:00,3:30,5:00,3:00,With parents/family,No never,No,
+9/26/2025 18:48:41,19,Female,BSC PSYCHOLOGY ,6:30,0:10,0,1:00:00 am,6:15:00 am,9,No,3,0:15,2,Habit,No never,,1:30,4:00,4:00,With parents/family,No never,No,
+9/26/2025 19:07:28,19,Male,Berozgar ,5:00,0:20,2,6:30:00 am,9:00:00 am,3,No,6,3:00,1,To stay awake/alert while studying,No never,,0:00,5:00,14:00,With parents/family,No never,Yes,Mental health problems
+9/26/2025 19:08:05,19,Female,Diploma in Interior Design.,6:00,0:30,3,1:00:00 am,7:30:00 am,6,No,0,0:00,0,I don't ,Yes occasionally,,1:15,1:00,8:25,With parents/family,No never,Yes,"Mental health problems, Physical health problems"
+9/26/2025 20:24:25,17,Female,12th,7:00,0:10,0,10:00:00 pm,4:00:00 am,1,Yes,7,4:00,1,I don't ,Yes occasionally,0:00,0:30,1:00,1:00,With parents/family,No never,No,Mental health problems
+9/26/2025 20:51:49,18,Female,BAF,10:00,0:20,2,11:00:00 pm,9:00:00 am,9,No,6,0:30,0,I don't ,No never,0:00,2:00,5:00,3:00,With parents/family,No never,Yes,Physical health problems
+9/26/2025 20:58:26,18,Female,12th,9:00,1:00,2,10:30:00 pm,8:30:00 am,4,Yes,2,1:00,2,To feel awake in the morning,No never,1:00,1:00,2:00,3:00,With parents/family,No never,No,
+9/26/2025 21:52:00,19,Female,BSC PSYCHOLOGY ,5:00,0:01,1,1:00:00 am,6:00:00 am,7,Yes,4,2:00,3,Habit,No never,4:00,1:30,1:00,5:00,With parents/family,No never,No,
+9/26/2025 22:02:11,19,Female,Culinary arts,6:00,0:05,5,10:00:00 am,10:00:00 am,3,No,1,0:15,1,To stay awake/alert while studying,Yes occasionally,2:00,1:45,6:00,6:00,With parents/family,No never,Yes,Mental health problems
+9/26/2025 22:15:40,21,Female,Chartered Accountancy ,6:00,15:00,1,11:30:00 pm,6:30:00 am,5,No,0,0:00,2,To stay awake/alert while studying,No never,,,2:00,2:00,With parents/family,No never,No,
+9/26/2025 22:15:54,18,Female,Bcom,3:00,2:00,3,3:00:00 am,6:00:00 am,1,No,5,2:00,1,To feel awake in the morning,No never,,2:00,3:00,7:00,With parents/family,No never,Yes,Mental health problems
+9/26/2025 23:17:23,18,Female,Graphic designer ,8:00,0:30,1,4:00:00 am,12:00:00 pm,10,No,0,1:00,3,Habit,No never,2:00,0:00,2:00,6:00,With parents/family,No never,No,Mental health problems
+9/27/2025 0:05:54,18,Male,AMC,5:00,0:00,0,1:30:00 am,5:00:00 am,10,No,2,2:00,2,To chill with my family ,No never,1:00,3:00,4:30,3:00,With parents/family,No never,No,
+9/27/2025 0:25:21,18,Female,BMS,5:00,1:00,2,4:00:00 am,6:00:00 am,5,No,4,2:00,4,To stay awake/alert while studying,Yes occasionally,5:00,2:00,3:00,4:00,With parents/family,No never,No,
+9/27/2025 2:44:14,19,Female,Bcom,7:00,0:10,0,12:00:00 pm,8:00:00 am,8,Yes,3,0:30,1,Social reasons (with friends),No never,0:30,6:00,7:00,7:00,In a hostel (university-managed),No never,No,
+9/27/2025 3:21:50,19,Female,Bcom,6:00,0:05,2,3:00:00 pm,9:00:00 am,7,No,2,0:30,2,Habit,No never,6:00,0:30,3:00,4:30,With parents/family,No never,Yes,Physical health problems
+9/27/2025 11:34:37,19,Female,Bsc,5:30,1:30,2,1:30:00 am,6:30:00 am,2,Yes,6,2:00,0,I don't ,No never,,2:00,6:30,1:30,With parents/family,No never,Yes,Physical health problems
+9/27/2025 13:47:12,18,Female,LLB ,12:00,4:00,4,12:00:00 pm,11:00:00 am,3,Yes,4,1:00,3,To stay awake/alert while studying,Yes occasionally,0:30,0:30,3:00,7:00,With parents/family,"No, I used to but have quit",No,"Mental health problems, Physical health problems"
+9/27/2025 14:33:03,22,Female,Mcom,7:00,0:05,1,11:30:00 pm,12:00:00 pm,8,Yes,3,0:30,2,Habit,No never,7:00,1:00,0:00,1:00,With parents/family,No never,No,
+9/27/2025 20:59:21,19,Female,BSc Data Science ,6:30,0:30,1,1:00:00 am,12:00:00 pm,8,Yes,5,1:30,1,Social reasons (with friends),No never,,5:00,5:00,10:00,With parents/family,No never,No,
+9/27/2025 21:05:14,19,Female,Chartered Accountancy ,7:00,0:15,0,12:00:00 am,7:00:00 am,7,Yes,7,1:00,1,Habit,No never,12:00,0:30,0:30,1:30,With parents/family,No never,No,
+9/27/2025 21:08:49,25,Female,MSc Statistics ,10:00,1:00,4,2:00:00 am,2:00:00 pm,10,No,3,3:00,5,Habit,No never,1:00,2:00,5:00,12:00,In a hostel (university-managed),No never,No,
+9/27/2025 21:15:42,18,Female,Computer science,5:00,0:10,3,1:30:00 am,6:00:00 am,3,No,3,1:00,0,I don't ,No never,0:00,0:40,4:00,1:00,With parents/family,No never,No,"Mental health problems, Physical health problems"
+9/27/2025 21:15:57,19,Female,Computer science,4:30,0:15,1,1:30:00 am,5:30:00 am,7,No,3,1:00,1,No reason,,,4:15,4:00,3:00,With parents/family,No never,No,
+9/27/2025 21:22:12,19,Female,Bcom,7:30,0:30,0,1:30:00 am,9:00:00 am,8,Yes,2,0:30,1,Social reasons (with friends),No never,5:00,2:00,5:00,3:00,With parents/family,No never,No,
+9/27/2025 23:03:56,19,Female,Bcom ,8:00,0:20,1,10:30:00 pm,8:00:00 am,10,No,3,1:00,2,Habit,No never,,2:00,4:00,3:00,With parents/family,No never,No,
+9/27/2025 23:11:10,18,Male,BMS,8:00,1:30,1,,,7,No,1,0:10,2,Habit,No never,,4:30,1:00,10:00,With parents/family,No never,No,
+9/28/2025 19:15:10,18,Female,Bcom,10:00,2:00,0,3:00:00 am,10:00:00 am,5,Yes,2,0:50,3,To stay awake/alert while studying,No never,6:00,0:00,4:00,9:00,With parents/family,No never,No,
+9/29/2025 1:02:29,22,Male,BAMMAC,8:00,0:10,0,4:00:00 am,12:00:00 pm,6,Yes,7,1:00,0,I don't ,No never,,0:00,3:00,8:00,With parents/family,No never,No,
+9/29/2025 17:26:06,19,Female,BPT,8:00,0:30,1,11:30:00 pm,9:00:00 am,9,Yes,4,2:00,0,I don't ,No never,,1:30,2:00,3:00,With parents/family,No never,No,
+9/29/2025 23:17:53,17,Female,11th,6:30,3:00,2,12:00:00 pm,9:00:00 am,4,No,7,5:00,1,To stay awake/alert while studying,No never,,2:00,3:00,1:30,With parents/family,No never,Yes,Physical health problems
+10/1/2025 10:25:32,19,Female,Bsc Data Science ,6:30,0:30,0,12:00:00 am,6:20:00 am,9,No,7,1:00,1,To feel awake in the morning,No never,1:00,1:00,3:00,3:00,With parents/family,No never,No,
+10/1/2025 17:44:52,19,Male,Bsc IT,5:12,0:12,1,10:30:00 pm,6:00:00 am,5,No,7,2:00,2,To feel awake in the morning,No never,2:02,3:08,1:02,5:02,With parents/family,No never,No,
+10/1/2025 17:53:40,18,Other,BAF,7:00,0:20,3,11:30:00 pm,6:00:00 am,7,Yes,5,1:30,2,Habit,No never,7:00,6:00,0:00,10:00,With parents/family,No never,No,
+10/1/2025 18:01:19,18,Female,Bcom,7:00,0:30,2,11:00:00 pm,6:00:00 am,5,Yes,7,5:00,0,I don't ,No never,,2:00,1:00,4:00,With parents/family,No never,No,
+10/1/2025 18:05:24,18,Male,BAF,5:00,0:10,1,2:00:00 am,6:30:00 am,5,Yes,0,2:00,7,Habit,No never,0:30,0:05,18:00,18:00,With parents/family,No never,No,
+10/1/2025 18:32:36,22,Male,AMC,7:00,0:30,1,1:00:00 pm,8:00:00 am,4,No,0,,1,Taste ,Yes occasionally,,0:30,0:15,6:00,In a hostel (university-managed),No never,Yes,Physical health problems
+10/1/2025 18:39:54,20,Female,AMC,7:00,0:30,0,4:00:00 am,2:00:00 pm,8,Yes,6,1:30,1,Habit,Yes occasionally,,1:00,1:00,9:00,With parents/family,No never,No,
+10/1/2025 19:48:38,20,Male,BErozgar ,7:00,0:15,1,12:00:00 am,7:00:00 am,7,No,3,1:00,2,For the taste,No never,6:00,0:40,5:00,4:00,With parents/family,No never,No,
+10/1/2025 21:35:53,21,Female,AMC,7:00,2:00,1,12:00:00 am,9:00:00 am,7,Yes,3,21:00,1,To feel awake in the morning,Yes occasionally,5:00,3:00,2:00,5:00,With parents/family,No never,Yes,"Mental health problems, Physical health problems"
+10/2/2025 11:18:02,19,Female,BAF,3:00,0:05,1,12:00:00 am,4:20:00 am,1,Yes,3,0:30,2,Habit,No never,3:00,2:30,3:00,7:00,With parents/family,No never,Yes,Physical health problems
+10/7/2025 9:01:49,18,Male,AMC,4:00,0:30,0,1:00:00 am,6:00:00 am,2,No,7,4:00,4,Habit,Yes occasionally,0:30,0:04,0:05,3:00,In a hostel (university-managed),Yes occasionally,No,
+10/7/2025 10:12:48,18,Female,AMC,6:00,0:30,0,11:30:00 pm,6:10:00 am,6,Yes,6,2:00,2,Habit,No never,6:00,2:30,1:30,2:00,With parents/family,No never,No,
+10/7/2025 10:13:30,19,Female,AMC,8:00,0:00,0,1:00:00 am,7:00:00 am,2,No,6,2:00,1,Social reasons (with friends),"No, I used to but have quit",1:00,1:00,0:30,8:00,With parents/family,No never,No,
+10/8/2025 23:26:21,19,Female,AMC,6:31,0:30,0,11:30:00 pm,6:45:00 am,7,No,2,0:30,2,Habit,No never,,0:10,1:00,3:00,In a private paying guest (PG) accommodation,No never,No,
+10/9/2025 8:50:38,19,Male,AMC,5:30,0:30,0,12:00:00 am,6:00:00 am,6,No,5,2:00,0,I don't ,No never,,0:30,5:00,4:00,With parents/family,No never,No,
+10/11/2025 11:42:55,18,Female,BA economics ,6:00,1:00,0,11:00:00 am,6:00:00 am,5,Yes,5,2:00,0,I don't ,Yes occasionally,5:00,0:10,5:00,4:00,With parents/family,No never,No,
+10/11/2025 11:45:07,19,Male,Bsc Data Science,6:30,0:30,0,10:30:00 pm,6:30:00 am,5,No,7,1:00,2,To feel awake in the morning,No never,,0:20,3:00,4:00,In a hostel (university-managed),No never,No,
+10/13/2025 7:23:38,19,Female,Bsc,8:00,0:30,0,11:00:00 pm,6:00:00 am,6,No,0,0:00,1,To feel awake in the morning,No never,,1:00,2:00,4:00,With parents/family,No never,Yes,"Mental health problems, Physical health problems"
+,1,,,,,,,,,,,,,,,,,,,,,,
